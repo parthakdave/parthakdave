@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Travel Itinerary**
 
-- 🌱 I’m currently learning **Python, Sensors and Actuators**
+- 🌱 I’m currently learning **Python and Java**
 
 - 📫 How to reach me **parthadave0405@gmail.com**
 
